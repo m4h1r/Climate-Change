@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 import csv
 
 # Data Collecting
-for yil in range(2015,2019):
+for yil in range(1990,2019):
   for ay in range(1,13):
     if ay==4 or ay==6 or ay==9 or ay==11:
       songun=31
